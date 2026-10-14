@@ -9,3 +9,5 @@ Computer Science student and developer focused on building production-ready web 
 
 ### 📬 Connect
 - [Email] cindeaandrei1@gmail.com
+
+- [Bounties]<img src="https://algora.io/og/user/Andrei-Cindea" />
